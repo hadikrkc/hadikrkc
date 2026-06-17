@@ -20,7 +20,7 @@
 Senior Backend & Data Engineering roles in Germany / Europe — feel free to reach out!
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/hadi-kirkici) · hadi.kirkici@gmail.com
+[LinkedIn](https://www.linkedin.com/in/hadi-kirkici)
 
 ---
 ⚡ Fun fact: I once cut a manual QA process from 1 week down to 15 hours. Still chasing that kind of efficiency, just with data pipelines now.
